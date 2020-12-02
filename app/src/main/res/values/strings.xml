@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">myDictionary</string>
+    <string name="kakao_app_key">3370851b9c3cee254586fa0665353c01</string>
+    <string name="facebook_app_id">415347015996055</string>
+    <string name="fb_login_protocol_scheme">fb415347015996055</string>
+
+</resources>
